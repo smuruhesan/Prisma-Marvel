@@ -3,7 +3,11 @@
 
 <head>
   <?php include("head.php"); ?>
+  <meta name="google-site-verification" content="Sld9_2YmXzIAIOG6F-c0upmzrSOUBcXh9kKWVfyOH4U" />
 </head>
+
+
+
 
 <body class="index-page">
 <?php include("nav.php"); ?>
