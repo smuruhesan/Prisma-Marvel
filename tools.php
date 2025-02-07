@@ -315,8 +315,10 @@
                     <li><strong>Direct Access to Rocket:</strong> An alternative method for accessing Rocket, available to all PANW employees through the GlobalProtect (GP) connection.</li>
                 </ul>
 
-                <h3>Demo</h3>
-                <p><strong>Here is the Demo of the Rocket Tool:</strong></p>
+                <h3>Demo</h3>  
+                <ul>            
+                    <li><a href="https://drive.google.com/file/d/1BYoXA7SSqf8SLr5KpPRBHAs1NR10eX7m/view" target="_blank"><strong>Rocket Tool Demo</strong></a></li>
+                    <li><a href="https://docs.google.com/presentation/d/13qY8GSE6AQfW9tQ8T0uVqrUkICFoPsYOs7I5PGroqWw/edit#slide=id.p" target="_blank"><strong>Rocket Tool Slides</strong></a></li>
                     <!-- <iframe src="https://drive.google.com/file/d/1BYoXA7SSqf8SLr5KpPRBHAs1NR10eX7m/preview" 
                             width="700" height="450" ß
                             allow="autoplay; fullscreen" 
@@ -324,6 +326,7 @@
                             allowfullscreen
                             loading="lazy">
                     </iframe> -->
+                </ul>
             </div>
         </div>
 
@@ -349,7 +352,11 @@
                     <li><strong>File Support:</strong> Supports a variety of file types, including CVE, MD5, domain, and IP data downloaded from the Intelligence Stream.</li>
                     <li><strong>User-Friendly Interface:</strong> Offers a simple and intuitive interface for easy searching and data retrieval, making it accessible for engineers at all levels.</li>
                 </ul>
-                <p>Here is a quick demo of the Groot Tool:</p>
+                <h3>Demo</h3>  
+                <ul>            
+                    <li><a href="https://drive.google.com/file/d/1HY5Jt_hRPGv86DiAayY7yP74B7z6c-_x/view" target="_blank"><strong>Groot Tool Demo</strong></a></li>
+                    <li><a href="https://docs.google.com/presentation/d/1q1LpL0e7Yj7PM8205qpD8W-5EYY8OE9yAFAGYKDDXfA/edit#slide=id.p" target="_blank"><strong>Groot Tool Slides</strong></a></li>
+                </ul>
                 <!-- <iframe src="https://drive.google.com/file/d/1HY5Jt_hRPGv86DiAayY7yP74B7z6c-_x/preview" 
                         width="700" height="450" 
                         allow="autoplay; fullscreen" 
@@ -392,11 +399,12 @@
                 <h3>Files</h3>
                 <ul>
                     <li><a href="https://docs.google.com/presentation/d/1HboFxKB6aPxREktr3EeaZwfGQ51l3lkuMsSE9m4QNc4/edit#slide=id.g276b27bfd70_0_336" target="_blank"><strong>Agentless Log Larser Tool Presentation</strong></a></li>
-                    <li><a href="https://drive.google.com/drive/folders/12AG0XuSAmwVOo0g28lMLHBFMVLDDsJOr?usp=drive_link" target="_blank"><strong>Demos</strong></a></li>
+                    <!-- <li><a href="https://drive.google.com/drive/folders/12AG0XuSAmwVOo0g28lMLHBFMVLDDsJOr?usp=drive_link" target="_blank"><strong>Demos</strong></a></li> -->
+                    <li><a href="https://drive.google.com/file/d/1a1z1GuafUtfqKDJTSkvjEJxS503dSv4L/view?usp=drive_link" target="_blank"><strong>Demos</strong></a></li>
                 </ul>
 
-                <h3>Demo 1 </h3>
-                <iframe src="https://drive.google.com/file/d/1j2bXF1jJl-yGWn8PehDHhBxiaSXHQnPm/preview" 
+               <!-- <h3>Demo 1 </h3>
+                 <iframe src="https://drive.google.com/file/d/1j2bXF1jJl-yGWn8PehDHhBxiaSXHQnPm/preview" 
                         width="700" height="450" 
                         allow="autoplay; fullscreen" 
                         frameborder="0" 
@@ -411,7 +419,7 @@
                         allowfullscreen
                         loading="lazy">
                 </iframe>
-                <p><a href="https://drive.google.com/drive/folders/12AG0XuSAmwVOo0g28lMLHBFMVLDDsJOr?usp=drive_link" target="_blank"><strong>Recording Files</strong></a></p>
+                <p><a href="https://drive.google.com/drive/folders/12AG0XuSAmwVOo0g28lMLHBFMVLDDsJOr?usp=drive_link" target="_blank"><strong>Recording Files</strong></a></p> -->
 
 
             </div>
@@ -431,10 +439,16 @@
                 <p>1. Import the DB backup collected from all of known methods </p>
                 <p>2. Search and read the data easily from the DB backup via a web page</p>
                 <p>3. Export as CSV with whole table or selected data</p>
-                <p> <a href="https://docs.google.com/presentation/d/1-3aV986RH5Mov2ObQblmGVW9qyenkbQByKJwNU6M2Yc/edit#slide=id.p" target="_blank">Drax Presentation</a> </p>
-                <p>Here is a quick demo to the tool!!</p>
+                
+                <h3>Demo</h3>  
+                <ul>            
+                    <li><a href="https://drive.google.com/file/d/1MqmMl1ta2BAZc85ToVGCZF14OLxHraaT/view" target="_blank"><strong>Drax Tool Demo</strong></a></li>
+                    <li><a href="https://docs.google.com/presentation/d/1-3aV986RH5Mov2ObQblmGVW9qyenkbQByKJwNU6M2Yc/edit#slide=id.p" target="_blank"><strong>Drax Tool Slides</strong></a></li>
+                </ul>
 
-                <!-- <iframe src="https://drive.google.com/file/d/1MqmMl1ta2BAZc85ToVGCZF14OLxHraaT/preview" 
+                <!-- https://drive.google.com/drive/folders/1MrtlPAhmGO_hQm6mv76irW1In2CClOg2?usp=drive_link
+
+                    <iframe src="https://drive.google.com/file/d/1MqmMl1ta2BAZc85ToVGCZF14OLxHraaT/preview" 
                         width="700" height="450" 
                         allow="autoplay; fullscreen" 
                         frameborder="0" 
