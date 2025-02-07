@@ -34,13 +34,11 @@
           -->
           <li><a href="reference.php">Quick References</a></li>
           <li><a href="sample.php">Quick Links</a></li>
-          <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeBqm4_iQBd6OIJHXhatc1-0FCOJiGck1KWNVx3aPstoVgNLQ/viewform?usp=header">Feedback</a></li>
-
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
 
-      <a class="btn-getstarted" href="form link">Requests</a>
+      <a class="btn-getstarted" href="https://docs.google.com/forms/d/e/1FAIpQLSeBqm4_iQBd6OIJHXhatc1-0FCOJiGck1KWNVx3aPstoVgNLQ/viewform?usp=header"target="_blank">Feedback</a>
 
     </div>
   </header>

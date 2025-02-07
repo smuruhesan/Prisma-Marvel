@@ -117,7 +117,7 @@
                     <button class="nav-link active" id="nav-cspm-tab" data-bs-toggle="tab" data-bs-target="#nav-cspm" type="button" role="tab" aria-controls="nav-cspm" aria-selected="true">CSPM</button>
                     <button class="nav-link" id="nav-cwp-tab" data-bs-toggle="tab" data-bs-target="#nav-cwp" type="button" role="tab" aria-controls="nav-cwp" aria-selected="false">CWP</button>
                     <button class="nav-link" id="nav-cs-tab" data-bs-toggle="tab" data-bs-target="#nav-cs" type="button" role="tab" aria-controls="nav-cs" aria-selected="false">CAS</button>
-                    <button class="nav-link" id="nav-dig-tab" data-bs-toggle="tab" data-bs-target="#nav-dig" type="button" role="tab" aria-controls="nav-dig" aria-selected="false">Ciber Security</button>
+                    <button class="nav-link" id="nav-dig-tab" data-bs-toggle="tab" data-bs-target="#nav-dig" type="button" role="tab" aria-controls="nav-dig" aria-selected="false">Cider Security</button>
                 </div>
             </nav>
             <div class="tab-content" id="nav-tabContent">
